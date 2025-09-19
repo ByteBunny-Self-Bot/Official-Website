@@ -1,0 +1,62 @@
+[
+  {
+    "number": 6,
+    "title": "Core Selfbot Development",
+    "description": "Basic functionality and command system",
+    "status": "Completed",
+    "status_color": "#00FF00",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "number": 5,
+    "title": "GUI Implementation",
+    "description": "Modern interface with admin/user panels",
+    "status": "Completed",
+    "status_color": "#00FF00",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "number": 4,
+    "title": "Web Panel Support",
+    "description": "Browser-based control panel for remote management",
+    "status": "In Progress",
+    "status_color": "#FFFF00",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "number": 3,
+    "title": "API Speed Improvements",
+    "description": "Enhanced performance and faster response times",
+    "status": "Planned",
+    "status_color": "#FF0000",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "number": 2,
+    "title": "Media Creator Program",
+    "description": "Tools and resources for content creators",
+    "status": "Planned",
+    "status_color": "#FF0000",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "number": 1,
+    "title": "Partnership Program",
+    "description": "Sponsorship opportunities and collaborations",
+    "status": "Future",
+    "status_color": "#FF0000",
+    "creator": "",
+    "created_at": "",
+    "updated_at": ""
+  }
+]
