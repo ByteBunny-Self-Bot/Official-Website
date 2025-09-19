@@ -5,9 +5,9 @@
     "description": "Basic functionality and command system",
     "status": "Completed",
     "status_color": "#00FF00",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   },
   {
     "number": 5,
@@ -15,9 +15,9 @@
     "description": "Modern interface with admin/user panels",
     "status": "Completed",
     "status_color": "#00FF00",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   },
   {
     "number": 4,
@@ -25,9 +25,9 @@
     "description": "Browser-based control panel for remote management",
     "status": "In Progress",
     "status_color": "#FFFF00",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   },
   {
     "number": 3,
@@ -35,9 +35,9 @@
     "description": "Enhanced performance and faster response times",
     "status": "Planned",
     "status_color": "#FF0000",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   },
   {
     "number": 2,
@@ -45,9 +45,9 @@
     "description": "Tools and resources for content creators",
     "status": "Planned",
     "status_color": "#FF0000",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   },
   {
     "number": 1,
@@ -55,8 +55,9 @@
     "description": "Sponsorship opportunities and collaborations",
     "status": "Future",
     "status_color": "#FF0000",
-    "creator": "",
-    "created_at": "",
-    "updated_at": ""
+    "creator": "ByteBunny Team",
+    "created_at": "09/19/2025",
+    "updated_at": "09/19/2025"
   }
+
 ]
